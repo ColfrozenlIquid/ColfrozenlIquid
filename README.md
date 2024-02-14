@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 - 🔭 I’m currently working on **2D Adventure Game**
+- 🔭 I’m currently working on **Bevy Game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
